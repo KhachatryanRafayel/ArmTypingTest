@@ -24,7 +24,7 @@ class time_manager:
         """
         self.start_time = 0
         self.elapsed_time = 0
-        self.playing_duration = 5  # You can adjust this as needed
+        self.playing_duration = 30  # You can adjust this as needed
 
     def update_start_time(self, elapsed_time_nullify=False):
         """
