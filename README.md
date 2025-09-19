@@ -1,7 +1,8 @@
-# ArmTypingTest ⌨️💨
+# ![a](https://github.com/KhachatryanRafayel/ArmTypingTest/blob/main/assets/logo-ico.png) ArmTypingTest ⌨️💨
 
 **ArmTypingTest** is a simple typing speed test game developed using the Pygame library.\
 Challenge yourself to see how many words per minute you can type!
+
 
 ---
 
@@ -25,6 +26,12 @@ This project was a fantastic exercise in practical application, allowing me to s
 **It really matters to note that this game became a valuable tool for my QA practice** 🛡️, allowing me to perform extensive manual testing and refine my bug detection and reporting techniques.
 
 Detailed test reports and documentation for this game are available [here](https://github.com/KhachatryanRafayel/qa-portfolio/tree/main/Project_1_ArmTypingTest). 🔗
+
+---
+
+![screenshot1](https://github.com/KhachatryanRafayel/ArmTypingTest/blob/main/assets/screen1.png)
+![screenshot1](https://github.com/KhachatryanRafayel/ArmTypingTest/blob/main/assets/video.gif)
+![screenshot2](https://github.com/KhachatryanRafayel/ArmTypingTest/blob/main/assets/screen2.png)
 
 ---
 
