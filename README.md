@@ -1,4 +1,4 @@
-# ![a](https://github.com/KhachatryanRafayel/ArmTypingTest/blob/main/assets/logo-ico.png) ArmTypingTest ⌨️💨
+# ![a](https://github.com/KhachatryanRafayel/ArmTypingTest/blob/main/assets/logo-ico.png) ArmTypingTest 💨
 
 **ArmTypingTest** is a simple typing speed test game developed using the Pygame library.\
 Challenge yourself to see how many words per minute you can type!
@@ -6,11 +6,11 @@ Challenge yourself to see how many words per minute you can type!
 
 ---
 
-## ✨ Features
+## Features
 
-*   **🎯 WPM (Words Per Minute)**: Measures your typing speed and displays it in real time during the game.
-*   **⚡ CPM (Characters Per Minute)**: Tracks the number of characters typed per minute and displays it in real time during the game.
-*   **🔄 Random Word Selection**: A fresh set of words for every game session!
+*   **WPM (Words Per Minute)**: Measures your typing speed and displays it in real time during the game.
+*   **CPM (Characters Per Minute)**: Tracks the number of characters typed per minute and displays it in real time during the game.
+*   **Random Word Selection**: A fresh set of words for every game session!
 
 ---
 
@@ -18,10 +18,10 @@ Challenge yourself to see how many words per minute you can type!
 
 This project was a fantastic exercise in practical application, allowing me to solidify my understanding of several key concepts:
 
-*   **🧩 Object-Oriented Programming (OOP)**: I implemented OOP principles to create a modular and readable architecture. The code is logically separated into classes (e.g., text handling, statistics display, etc.), promoting maintainability and scalability.
-*   **📁 File I/O Operations**: I developed a system to read from an external text file for dynamic word generation.
-*   **🎮 Pygame Library**: I gained hands-on experience in setting up a game loop (mainloop), handling real-time keyboard events, and rendering text and graphics to the screen.
-*   **🧠 Algorithms & Logic**: I designed and implemented the core algorithms for accurately calculating **WPM** and **CPM**, validating input accuracy.
+*   **Object-Oriented Programming (OOP)**: I implemented OOP principles to create a modular and readable architecture. The code is logically separated into classes (e.g., text handling, statistics display, etc.), promoting maintainability and scalability.
+*   **File I/O Operations**: I developed a system to read from an external text file for dynamic word generation.
+*   **Pygame Library**: I gained hands-on experience in setting up a game loop (mainloop), handling real-time keyboard events, and rendering text and graphics to the screen.
+*   **Algorithms & Logic**: I designed and implemented the core algorithms for accurately calculating **WPM** and **CPM**, validating input accuracy.
 
 **It really matters to note that this game became a valuable tool for my QA practice** 🛡️, allowing me to perform extensive manual testing and refine my bug detection and reporting techniques.
 
@@ -35,7 +35,7 @@ Detailed test reports and documentation for this game are available [here](https
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 To run ArmTypingTest, you need:
 *   **Python**: Version 3.8 or higher
@@ -43,7 +43,7 @@ To run ArmTypingTest, you need:
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 Follow these steps to set up and run ArmTypingTest on your local machine:
 
@@ -82,4 +82,4 @@ Follow these steps to set up and run ArmTypingTest on your local machine:
 
 ---
 
-**Happy typing!** 🚀
+**Happy typing** 
